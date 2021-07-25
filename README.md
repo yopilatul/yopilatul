@@ -18,7 +18,7 @@ I'm a Web Developer. I did my Bachelor's in Faculty of Technology Information fr
 ---
 
 ## Contact
-[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=#)](#)
+[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=#)](https://yopilatulgithub.io/)
 
 <a href="mailto:adithyakobba12@outlook.com">
 <img src="https://img.shields.io/badge/adithyakobba12@outlook.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="adithyakobba12@outlook.com"></a>
