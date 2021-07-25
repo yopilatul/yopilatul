@@ -12,7 +12,7 @@ Hi folks :wave:
 
 I’m currently learning **Machine Learning**
 
-I'm a Web Developer. I did my Bachelor's in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies.
+I'm a Web Developer. I'm students in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies.
 
 
 ---
