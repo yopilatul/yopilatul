@@ -29,7 +29,3 @@ I'm a Web Developer. I'm students in Faculty of Technology Information from Saty
 <a  href="https://www.facebook.com/yopilaytul/">
 <img src="https://img.shields.io/badge/YovieKobba-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
-<a  href="#">
-<img src="https://img.shields.io/badge/Beacons-%23E4405F.svg?&style=for-the-badge&logo=beacons&logoColor=white"></a>
-
-
