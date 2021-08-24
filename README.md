@@ -1,7 +1,8 @@
 # 
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=tokyonight&layout=compact"/>
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yopilatul&show_icons=true&count_private=true&theme=tokyonight"/>
 </p>
 
