@@ -31,3 +31,6 @@ I'm a students in Faculty of Technology Information from Satya Wacana Christian 
 <a  href="https://www.facebook.com/yopilaytul/">
 <img src="https://img.shields.io/badge/YovieKobba-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 
+<a  href="https://www.linkedin.com/in/yovie-anugrah-adithya-kobba-19a55221b/">
+<img src="https://img.shields.io/badge/YovieKobba-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
