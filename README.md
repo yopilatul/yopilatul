@@ -20,7 +20,7 @@ I'm a students in Faculty of Technology Information from Satya Wacana Christian 
 ---
 
 ## Contact
-[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=https%3A%2F%2Fyopilatul.github.io)](https://yopilatul.github.io)
+[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=https%3A%2F%2Fyoviekobba.netlify.app)](https://yoviekobba.netlify.app/)
 
 <a href="mailto:adithyakobba12@outlook.com">
 <img src="https://img.shields.io/badge/adithyakobba12@outlook.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="adithyakobba12@outlook.com"></a>
