@@ -1,11 +1,3 @@
-# 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=tokyonight&layout=compact"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yopilatul&show_icons=true&count_private=true&theme=tokyonight"/>
-</p>
-
 ## About Me
 
 Hi folks :wave: 
@@ -16,6 +8,13 @@ I’m currently learning **Machine Learning**
 
 I'm a students in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies.
 
+# 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=tokyonight&layout=compact"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yopilatul&show_icons=true&count_private=true&theme=tokyonight"/>
+</p>
 
 ---
 
