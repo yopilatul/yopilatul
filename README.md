@@ -1,6 +1,5 @@
 ## About Me
 
-Hi folks :wave: 
 
 *I'm Yovie Kobba*
 
