@@ -1,28 +1,45 @@
-## About Me
+# Yovie_Kobba
+
+___
+
+<a href="https://yoviekobba.xyz/">
+<img src="https://imgur.com/a/W8yHjfp.pngg" alt="website"/>
+</a>
+
+___
+
+👋 Hi im Yovie
+
+I live in Indonesia, Hobby: Programming.
+___
+
+This is the programming language that I often use
+
+<a href="https://github.com/yopilatul">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=radical&hide=glsl,python" />
+</a>
+
+___
+Tools
+
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
-*I'm Yovie Kobba*
+Languages
 
-I’m currently learning **Machine Learning**
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/GO-5c8707?style=for-the-badge&logo=GO&logoColor=white) ![](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E) ![](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white)
+___
 
-I'm a students in Faculty of Technology Information from Satya Wacana Christian University, Indonesia. I love to learn about how things work and try new tools and technologies.
+this is my github stats
 
-# 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=tokyonight&layout=compact"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yopilatul&show_icons=true&count_private=true&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yopilatul&show_icons=true&theme=radical&line_height=27&v=5" alt="My GitHub Stats" />
 
----
+___
 
-## Contact
-[![Website](https://img.shields.io/website?label=LandingPage&style=for-the-badge&url=https%3A%2F%2Fyoviekobba.xyz)](https://yoviekobba.xyz/)
+My social media
 
-<a href="mailto:adithyakobba12@outlook.com">
-<img src="https://img.shields.io/badge/adithyakobba12@outlook.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="adithyakobba12@outlook.com"></a>
+<a href = "https://discordapp.com/users/349874541784334337/"><img src = "https://imgur.com/RSEvkDl.png" height= 15px width = 15px> Discord </a>&nbsp;&nbsp;
 
-<a  href="https://www.linkedin.com/in/yovie-anugrah-adithya-kobba-19a55221b/">
-<img src="https://img.shields.io/badge/YovieKobba-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<a href="https://discordapp.com/users/349874541784334337/">
+  <img src="https://discord.c99.nl/widget/theme-3/349874541784334337.png" />
+</a>
