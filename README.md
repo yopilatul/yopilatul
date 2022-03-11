@@ -3,7 +3,7 @@
 ___
 
 <a href="https://yoviekobba.xyz/">
-<img src="https://imgur.com/a/W8yHjfp.pngg" alt="website"/>
+<img src="https://imgur.com/a/W8yHjfp.png" alt="website"/>
 </a>
 
 ___
