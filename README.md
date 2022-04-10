@@ -16,7 +16,7 @@ ___
 This is the programming language that I often use
 
 <a href="https://github.com/yopilatul">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yopilatul&theme=radical&hide=glsl" />
 </a>
 
 ___
